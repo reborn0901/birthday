@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Happy Birthday to Chiharu</title>
+</head>
+<body id="index">
+  <header>
+    <div>
+      <h1 class="title">Happy<br>Birthday<br>to<br>Chiharu</h1>
+    </div>
+    <div id="nav">
+      <ul class="inline">
+        <li><a href="history.html">history</a></li>
+        <li><a href="message.html">message</a></li>
+      </ul>
+    </div>
+  </header>
+  <main>
+    <p><span>ち〜ちゃんお誕生日おめでとう！</span><br>遅くなったって書こうと思ったけど、<br>むしろ誕生日的にちょうど良かった説ある笑<br>HPと言っても小規模なものだけど、<br>私らしいプレゼントを考えたら<br><span>「これしかない！！」</span><br>ってなったのでプレゼントします。<br>もう10年の付き合いになるって考えると<br>世界って恐ろしいよね笑<br>改めて...<br>ち〜ちゃんお誕生日おめでとう！</p>
+  </main>
+  <footer>
+    <p>© Saaya & Chiharu & Our best friends</p>
+  </footer>
+</body>
+</html>
